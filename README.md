@@ -1,2 +1,2 @@
-# CentralApps
-Catchall repo for hard to download apps
+# Jython
+Jython is a pain to download from command line
